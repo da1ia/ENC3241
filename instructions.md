@@ -29,7 +29,7 @@ Figure 2. Add Better Canvas prompt. (Screenshot by Dalia Zamora)
 
 Step 4: On the top right-hand side of your screen, click **OK** to dismiss the prompt. (Figure 3)
 
-<img src="image-instructions/fig-3.png" width="950" />
+<img src="image-instructions/fig-3.png" width="1150" />
 
 Figure 3. Prompt displaying Better Canvas was added. (Screenshot by Dalia Zamora)
 
