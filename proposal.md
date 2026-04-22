@@ -58,11 +58,11 @@ Shetye, Akshay, et al. "Deepfake Technologies in Financial Fraud: Generation, De
 
 ### Budget
 
-| **Item**               || **Unit and Cost**               || **Total** |
-| ---------------------- || ------------------------------- || --------- |
-| Participant incentives || \$10/person, 20 people          || \$200     |
-| ---                    || ---                             || ---       |
-| Research Notice Flyers || \$0.30/printed flyer, 25 flyers || \$7.5     |
-| ---                    || ---                             || ---       |
-| Total                  || \-                              ||\$207.5   |
-| ---                    || ---                             || ---       |
+| **Item**               | **Unit and Cost**               | **Total** |
+| ---------------------- | ------------------------------- | --------- |
+| Participant incentives | \$10/person, 20 people          | \$200     |
+| ---                    | ---                             | ---       |
+| Research Notice Flyers | \$0.30/printed flyer, 25 flyers | \$7.5     |
+| ---                    | ---                             | ---       |
+| Total                  | \-                              |\$207.5    |
+| ---                    | ---                             | ---       |
