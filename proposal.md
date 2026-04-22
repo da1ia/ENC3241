@@ -7,9 +7,9 @@ title: Proposal
 
 ## Understanding Effective Deepfake Mitigation Methods
 
-## Dalia L. Zamora **Information Technology**
+## Dalia L. Zamora | Information Technology
 
-### **Background**
+### Background
 
 In the last few years, the rapid advancement of Artificial Intelligence has both directly and indirectly influenced much of the content seen online today. In particular, generative AI technologies have propelled deepfakes forward in terms of frequency. Being able to replicate convincing media of any kind can cause enormous damage-several industries are vulnerable to this kind of technology. This could include creating a political campaign around manipulating video/images or falsifying information, as well as explicit or illegal imagery of unknowing individuals (Abdel-Wahab). In addition to reputational damage is financial one(s), such as an incident which led to the loss of 25 million USD from a single video (Shetye et al).
 
@@ -53,13 +53,16 @@ Shetye, Akshay, et al. "Deepfake Technologies in Financial Fraud: Generation, De
 
 <div class="joplin-table-wrapper"><table><thead><tr><th><p><strong>Dates</strong></p></th><th><p><strong>Tasks</strong></p></th></tr><tr><th><p>January 1, 2027 - January 9, 2027</p></th><th><ul><li>Create all surveys &amp; Flyers</li><li>Contact building liaisons</li></ul></th></tr><tr><th><p>January 10, 2027 - January 24, 2027</p></th><th><ul><li>Participant acceptance period; will close after 20 participants agree</li><li>* participants shall complete study on a rolling basis upon acceptance any time before Feb. 12th</li><li>Create presentation material</li></ul></th></tr><tr><th><p>January 25, 2027 - February 11, 2027</p></th><th><ul><li>Allotted time for participants to schedule a time to meet with researcher. Participant study predominantly conducted during this time.</li></ul></th></tr><tr><th><p>February 12, 2027 - March 5, 2027</p></th><th><ul><li>Analyze + organize qualitative and quantitative data</li></ul></th></tr><tr><th><p>March 6, 2027 - March 7, 2027</p></th><th><ul><li>Finalize all data, complete full reports of findings</li></ul></th></tr></thead></table></div>
 
+
+
+
 ### Budget
 
-| **Item**               | **Unit and Cost**               | **Total** |
-| ---------------------- | ------------------------------- | --------- |
-| Participant incentives | \$10/person, 20 people          | \$200     |
-| ---                    | ---                             | ---       |
-| Research Notice Flyers | \$0.30/printed flyer, 25 flyers | \$7.5     |
-| ---                    | ---                             | ---       |
-| Total                  | \-                              | \$207.5   |
-| ---                    | ---                             | ---       |
+| **Item**               || **Unit and Cost**               || **Total** |
+| ---------------------- || ------------------------------- || --------- |
+| Participant incentives || \$10/person, 20 people          || \$200     |
+| ---                    || ---                             || ---       |
+| Research Notice Flyers || \$0.30/printed flyer, 25 flyers || \$7.5     |
+| ---                    || ---                             || ---       |
+| Total                  || \-                              ||\$207.5   |
+| ---                    || ---                             || ---       |
