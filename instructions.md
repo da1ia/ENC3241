@@ -17,7 +17,7 @@ Step 1: Visit the Better Canvas page on the Firefox Browser Add-Ons & Extensions
 
 Step 2: On the top-righthand side of the page, click the **Add to Firefox** button (Figure 1).
 
-<img src="image-instructions/fig-1.png" width="750" />
+<img src="image-instructions/fig-1.png" width="1050" />
 
 Figure 1. The "Add to Firefox" button. (Screenshot by Dalia Zamora)
 
@@ -29,7 +29,7 @@ Figure 2. Add Better Canvas prompt. (Screenshot by Dalia Zamora)
 
 Step 4: On the top right-hand side of your screen, click **OK** to dismiss the prompt. (Figure 3)
 
-<img src="image-instructions/fig-3.png" width="650" />
+<img src="image-instructions/fig-3.png" width="950" />
 
 Figure 3. Prompt displaying Better Canvas was added. (Screenshot by Dalia Zamora)
 
