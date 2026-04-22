@@ -39,7 +39,7 @@ By understanding the current state of deepfake technologies and how well we are 
 
 ### References
 
-Abdel-Wahab, Ahmed, and Mohammad Alkhatib. "Toward Robust Deepfake Defense: A Review of Deepfake Detection and Prevention Techniques in Images." _Computers, Materials and Continua_, vol. 86, no. 2, Dec. 2025, pp. 1-34. _<www.sciencedirect.com>_, <https://doi.org/10.32604/cmc.2025.070010>.
+Abdel-Wahab, Ahmed, and Mohammad Alkhatib. "Toward Robust Deepfake Defense: A Review of Deepfake Detection and Prevention Techniques in Images." _Computers, Materials and Continua_, vol. 86, no. 2, Dec. 2025, pp. 1-34. _www.sciencedirect.com_, <https://doi.org/10.32604/cmc.2025.070010>.
 
 Mohammed, Anwar. "Deep Fake Detection and Mitigation: Securing Against AI-Generated Manipulation." _Journal of Computational Innovation_, vol. 4, no. 1, Nov. 2024. _researchworkx.com_, <https://researchworkx.com/index.php/jci/article/view/55>.
 
